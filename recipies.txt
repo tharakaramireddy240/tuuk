@@ -6,6 +6,8 @@ keer
 pasta
 chicken fry
 
+pizza
+beans
 
 
 
