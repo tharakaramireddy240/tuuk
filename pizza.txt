@@ -1,0 +1,4 @@
+1.go to dominos
+2.select the pizza
+3.order
+
